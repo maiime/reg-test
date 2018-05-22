@@ -1,5 +1,5 @@
 {
-  "name": "reg-test",
+  "name": "regexp-tester",
   "version": "0.0.1",
   "description": "none",
   "main": "index.js",

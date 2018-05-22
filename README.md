@@ -2,7 +2,7 @@
 
 ## install:
 ```base
-npm i reg-test --save
+npm i regexp-tester --save
 ```
 
 ## use:
